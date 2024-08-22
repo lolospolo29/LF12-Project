@@ -7,27 +7,79 @@
                 "position": {
                     "row": 1,
                     "column": 1,
-                    "direction": "left"
+                    "direction": "vertical"
                 }
             },
             {
                 "length": 6,
                 "word": "",
                 "position": {
-                    "row": 2,
+                    "row": 1,
                     "column": 1,
-                    "direction": "down"
+                    "direction": "horizontal"
+                }
+            },
+            {
+                "length": 7,
+                "word": "",
+                "position": {
+                    "row": 1,
+                    "column": 6,
+                    "direction": "vertical"
+                }
+            },
+            {
+                "length": 5,
+                "word": "",
+                "position": {
+                    "row": 3,
+                    "column": 3,
+                    "direction": "horizontal"
+                }
+            },
+            {
+                "length": 7,
+                "word": "",
+                "position": {
+                    "row": 5,
+                    "column": 1,
+                    "direction": "horizontal"
+                }
+            },
+            {
+                "length": 7,
+                "word": "",
+                "position": {
+                    "row": 7,
+                    "column": 1,
+                    "direction": "horizontal"
                 }
             }
         ],
         "words": [
             {
-                "letters": "Eagle",
+                "letters": "Aachen",
+                "length": 6
+            },
+            {
+                "letters": "Abend",
                 "length": 5
             },
             {
-                "letters": "Bad",
-                "length": 3
+                "letters": "Dolch",
+                "length": 5
+            },
+            {
+                "letters": "Dilemma",
+                "length": 7
+            },
+            {
+                "letters": "Ampulle",
+                "length": 7
+            },
+            {
+                "letters": "Nochmal",
+                "length": 7
             }
         ]
     }
